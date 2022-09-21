@@ -68,7 +68,7 @@ body{
 #header{
   background: url("../images/nico.png") no-repeat;
   background-size:cover;
-  height:100vh;
+  height:auto;
 }
 
 #What{
