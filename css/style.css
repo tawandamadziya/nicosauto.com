@@ -74,13 +74,13 @@ body{
 #What{
   background-color: Orange;
   background-size: cover;
-  height:15vh;
+  height:auto;
 }
 
 #Last{
   background-color: black;
   background-size: cover;
-  height:57vh;
+  height:auto;
 }
 
 h1{
